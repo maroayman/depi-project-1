@@ -1,4 +1,4 @@
-# 📝 Flask Note App with MariaDB on EC2 (RHEL 9) & Mounted Backup Volume
+# 📝 Flask Note App with MariaDB on EC2 (Amazon Linux 2023) & Mounted Backup Volume
 
 This project is a minimal Flask web application that lets users save and manage notes using a MariaDB backend. It’s designed to run on an AWS EC2 instance with a dedicated EBS volume mounted for MariaDB data backup.
 
@@ -10,7 +10,7 @@ This project is a minimal Flask web application that lets users save and manage 
 - SQLAlchemy integration with MariaDB
 - Backup volume `/mariadb` mounted for DB persistence
 - Shell script for full environment setup
-- Deployed on Amazon EC2 (RHEL 9)
+- Deployed on Amazon EC2 (Amazon Linux 2023)
 
 ---
 
