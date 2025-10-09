@@ -27,7 +27,8 @@ noteapp/
 ```
 
 ## References
-[Full Guide][https://maroayman.hashnode.dev/deploy-a-flask-mariadb-note-app-on-ec2-amazon-linux-2023-complete-guide]
-[MariaDB-Python][https://mariadb.com/docs/connectors/mariadb-connector-python]
-[Flask Docs][https://flask.palletsprojects.com/en/stable/]
-[SQLAlchemy Docs][https://docs.sqlalchemy.org/en/20/]
+
+- [Full Guide](https://maroayman.hashnode.dev/deploy-a-flask-mariadb-note-app-on-ec2-amazon-linux-2023-complete-guide)
+- [MariaDB-Python](https://mariadb.com/docs/connectors/mariadb-connector-python)
+- [Flask Docs](https://flask.palletsprojects.com/en/stable/)
+- [SQLAlchemy Docs](https://docs.sqlalchemy.org/en/20/)
